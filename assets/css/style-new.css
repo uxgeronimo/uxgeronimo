@@ -2315,7 +2315,7 @@ main.touch .main-wrap {
 }
 
 .about-awwwards .single-image  .overlay:nth-child(1) {
-   background: url("../img/DSC07292.jpg") center center no-repeat;
+   background: url("../img/profile.webp") center center no-repeat;
    background-size: cover;
    height: 130%;
    top: -25%;
